@@ -43,7 +43,9 @@ When we are inside AMIMOTO instance, we can use this __WP-CLI Anywhere__ to run 
 
 ## Create Snapshot
 
+A tool to automatically create snapshot of instances.
 
+Check out more at our <a href="https://github.com/amimoto-ami">github organization</a>!
 
 
 
